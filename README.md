@@ -1,5 +1,5 @@
 # AI- Translator
-Introduction:
+## Introduction:
 The AI Translator Web Application is an innovative and user- friendly platform that leverages the power of artificial intelligence to provide seamless and accurate translation services between multiple languages. Built with a focus on user experience and cutting- edge AI technologies, this application aims to break language barriers and facilitate effective communication across the globe.
 
 ## Key Features:

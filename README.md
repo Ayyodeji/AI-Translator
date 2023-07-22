@@ -25,7 +25,7 @@ The AI Translator Web Application is an innovative and user- friendly platform t
 ### Secure and Private:
   Ensuring data privacy and security is a top priority, with all user data handled responsibly and protected through encryption protocols.
 
-### Technologies Used:
+### Proposed Technologies:
 
 - Front- end: HTML, CSS, JavaScript, React.
 - Back- end: Python, Flask, TensorFlow, (or Hugging Face Transformers for AI model integration).
@@ -34,12 +34,12 @@ The AI Translator Web Application is an innovative and user- friendly platform t
 - Version Control: Git.
 - Continuous Integration and Continuous Deployment (CI/CD): Automate deployment processes for seamless updates.
 - Security: Implement robust security measures to protect user data and prevent unauthorized access.
-### Project Scope:
+## Project Scope:
 The project encompasses the end- to- end development of the AI Translator Web Application, starting from data collection and preprocessing to training the AI translation model. The application will be deployed on a cloud platform to ensure reliability and scalability.
 
 With an aim to improve the application further, user feedback will be actively collected and used to make necessary enhancements through future iterations.
 
-##Conclusion:
+## Conclusion:
 The AI Translator Web Application is an impressive combination of advanced AI technology and user- centric design, providing an unparalleled translation experience for users worldwide. By enabling seamless communication across languages, this project aims to foster global collaboration and bridge cultural divides. Embrace the power of AI and embark on a journey to create a more connected world through the AI Translator Web Application! 🌐🗣️
 
 

@@ -2,27 +2,27 @@
 Introduction:
 The AI Translator Web Application is an innovative and user- friendly platform that leverages the power of artificial intelligence to provide seamless and accurate translation services between multiple languages. Built with a focus on user experience and cutting- edge AI technologies, this application aims to break language barriers and facilitate effective communication across the globe.
 
-##Key Features:
+## Key Features:
 
--  ### Multilingual Support:
+### Multilingual Support:
   The application supports a wide range of source and target languages, allowing users to translate text, phrases, or entire documents effortlessly.
   
--  ### User- Friendly Interface:
+### User- Friendly Interface:
   The web- based interface is designed with a clean and intuitive layout, enabling users of all skill levels to navigate and use the application with ease.
   
--  ### Real- Time Translation:
+### Real- Time Translation:
   Users can expect near- instant translations, thanks to the efficient AI model integrated into the back- end, ensuring rapid responses to their language conversion needs.
   
--  ### AI- Powered Accuracy:
+### AI- Powered Accuracy:
   The AI translation model has been extensively trained on diverse bilingual datasets, resulting in high translation accuracy and the ability to capture language nuances.
   
--  ### Responsive Design:
+### Responsive Design:
   The application is fully responsive, adapting seamlessly to different screen sizes and devices, making it accessible on desktops, tablets, and smartphones.
   
--  ### History and Favorites:
+### History and Favorites:
   Users can access their translation history and save favorite translations for easy reference.
   
--  ### Secure and Private:
+### Secure and Private:
   Ensuring data privacy and security is a top priority, with all user data handled responsibly and protected through encryption protocols.
 
 ### Technologies Used:
